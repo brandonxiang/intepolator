@@ -1,0 +1,20 @@
+{
+    "name": "intepolator",
+    "version": "1.0.0",
+    "description": "a intepolator for serval numbers",
+    "main": "index.js",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/brandonxiang/intepolator.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/brandonxiang/intepolator/issues"
+    },
+    "homepage": "https://github.com/brandonxiang/intepolator#readme"
+}
