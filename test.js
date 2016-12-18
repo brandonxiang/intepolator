@@ -1,3 +1,3 @@
 var intepolator = require("./index")
 
-console.log(intepolator(3, 14, 8, 22, 7, 1.5))
+console.log(intepolator([{x:3, y:14},{x: 8,y: 22}], 7, 1.5))
