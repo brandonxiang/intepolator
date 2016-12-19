@@ -1,24 +1,24 @@
 {
-  "name": "interpolator",
-  "version": "1.0.1",
-  "description": "a intepolator for serval numbers",
-  "main": "index.js",
-  "scripts": {
-    "test": "mocha"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/brandonxiang/interpolator.git"
-  },
-  "keywords": [],
-  "author": "brandon.xiang",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/brandonxiang/interpolator/issues"
-  },
-  "homepage": "https://github.com/brandonxiang/interpolator#readme",
-  "devDependencies": {
-    "mocha": "^3.2.0",
-    "should": "^11.1.2"
-  }
+    "name": "interpolator_",
+    "version": "1.0.1",
+    "description": "a intepolator for serval numbers",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/brandonxiang/interpolator.git"
+    },
+    "keywords": [],
+    "author": "brandon.xiang",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/brandonxiang/interpolator/issues"
+    },
+    "homepage": "https://github.com/brandonxiang/interpolator#readme",
+    "devDependencies": {
+        "mocha": "^3.2.0",
+        "should": "^11.1.2"
+    }
 }
