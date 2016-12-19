@@ -4,5 +4,6 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-describe	G:\brandon-person\intepolator\test.js	/^describe('One point is between two points',function(){$/;"	function	line:4
-it	G:\brandon-person\intepolator\test.js	/^    it('should between y values of two points', function(){$/;"	function	line:6
+describe	G:\brandon-person\intepolator\test.js	/^describe('One point', function() {$/;"	function	line:5
+it	G:\brandon-person\intepolator\test.js	/^        it('should between y values of two points when it is between two points', function() {$/;"	function	line:7
+it	G:\brandon-person\intepolator\test.js	/^        it('should equal edge value when it is out two points',function(){$/;"	function	line:13

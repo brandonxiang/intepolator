@@ -4,8 +4,7 @@
   "description": "a intepolator for serval numbers",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js",
-    "mocha": "mocha"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
